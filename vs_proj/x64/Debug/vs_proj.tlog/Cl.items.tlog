@@ -1,0 +1,7 @@
+C:\Projects\vs_proj_gl-Model-Loading\dependencies\glad\src\glad.c;C:\Projects\vs_proj_gl-Model-Loading\vs_proj\x64\Debug\glad.obj
+C:\Projects\vs_proj_gl-Model-Loading\dependencies\stb_image\src\stb_image.cpp;C:\Projects\vs_proj_gl-Model-Loading\vs_proj\x64\Debug\stb_image.obj
+C:\Projects\vs_proj_gl-Model-Loading\src\camera.cpp;C:\Projects\vs_proj_gl-Model-Loading\vs_proj\x64\Debug\camera.obj
+C:\Projects\vs_proj_gl-Model-Loading\src\main.cpp;C:\Projects\vs_proj_gl-Model-Loading\vs_proj\x64\Debug\main.obj
+C:\Projects\vs_proj_gl-Model-Loading\src\mesh.cpp;C:\Projects\vs_proj_gl-Model-Loading\vs_proj\x64\Debug\mesh.obj
+C:\Projects\vs_proj_gl-Model-Loading\src\model.cpp;C:\Projects\vs_proj_gl-Model-Loading\vs_proj\x64\Debug\model.obj
+C:\Projects\vs_proj_gl-Model-Loading\src\shader.cpp;C:\Projects\vs_proj_gl-Model-Loading\vs_proj\x64\Debug\shader.obj

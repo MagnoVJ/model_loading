@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Projects\vs_proj_gl-Model-Loading\src\main.cpp(169,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\vs_proj_gl-Model-Loading\src\main.cpp(170,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  vs_proj.vcxproj -> C:\Projects\vs_proj_gl-Model-Loading\x64\Debug\vs_proj.exe

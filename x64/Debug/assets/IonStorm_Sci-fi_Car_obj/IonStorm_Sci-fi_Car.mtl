@@ -1,0 +1,24 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl IonStorm:Interior
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd ionstorm_interior_diffuse.png
+map_Ke ionstorm_interior_emission.png
+map_d ionstorm_interior_diffuse.png
+map_Bump -bm 1.000000 ionstorm_interior_normal.png
+
+newmtl IonStorm:Shell
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ionstorm_exterior_diffuse.png
+map_Ke ionstorm_exterior_emission.png
+map_Bump -bm 1.000000 ionstorm_exterior_normal.png
